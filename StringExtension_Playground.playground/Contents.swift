@@ -2,7 +2,6 @@ import UIKit
 
 extension String {
 
-
     /// Method to check whether the string has only characters.
     /// - Returns: bool value.
     func isNumber() -> Bool {
